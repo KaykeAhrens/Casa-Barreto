@@ -127,7 +127,7 @@ header h1 {
 }
 
 #promocaoBanner .botao {
-  width: 50%;
+  width: 45%;
   display: flex;
   justify-content: center;
 }
@@ -180,6 +180,7 @@ header h1 {
   #promocaoBanner button {
     font-size: 12px;
     padding: 5px 10px;
+    margin-left: -6px;
   }
 }
 
